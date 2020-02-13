@@ -47,7 +47,6 @@
     "@iconify/icons-ic": "^1.0.8",
     "@iconify/icons-mdi": "^1.0.66",
     "@types/react-redux": "^7.1.7",
-    "@types/styled-components": "^4.4.2",
-    "gh-pages": "^2.2.0"
+    "@types/styled-components": "^4.4.2"
   }
 }
